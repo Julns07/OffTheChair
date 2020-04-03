@@ -1,3 +1,5 @@
+//pull out code from workout practice, DO NOT FORGET OR THS WONT WORK!!
+//remember to attach workout pictures to assets!!
 /*import React, { Component } from "react"
 import ExerciseType from "./ExerciseType"
 
